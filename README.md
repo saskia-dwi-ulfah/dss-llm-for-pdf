@@ -3,7 +3,9 @@
 ## Background
 
 PDF file reports, as a form of written document, are used in many sectors. In practice, these reports often contain very detailed and comprehensive information. This makes the documents tend to be thick and complex, making it challenging to find specific information. The thickness and complexity of these reports are often due to the need to cover all relevant aspects and present data and analysis comprehensively to ensure that readers gain a complete understanding of the subject at hand.
-With the development of artificial intelligence (AI) and machine learning (ML) technologies, we can streamline the search for information contained in tens or even hundreds of pages of PDF reports using large language models (LLMs). In this 3-day workshop, you will gain a brand new understanding of how we can extend LLMs' capabilities to enable efficient information retrieval from PDF documents. Starting with plain PDF documents, you will learn how to process these documents, serve them as additional contexts for LLMs, and eventually, this will answer all of your for the documents!
+With the development of artificial intelligence (AI) and machine learning (ML) technologies, we can streamline the search for information contained in tens or even hundreds of pages of PDF reports using large language models (LLMs). 
+
+In this 3-day workshop, you will gain a brand new understanding of how we can extend LLMs' capabilities to enable efficient information retrieval from PDF documents. Starting with plain PDF documents, you will learn how to process these documents, serve them as additional contexts for LLMs, and eventually, this will answer all of your for the documents!
 
 ## Learning Outcomes
 
